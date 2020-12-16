@@ -1,3 +1,11 @@
-h1, p {
-  font-family: Lato;
+body {
+  padding: 0px !important;
+  box-sizing: border-box;
+  background-color: #f2f4fb;
+}
+
+h1,
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }

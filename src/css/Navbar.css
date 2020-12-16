@@ -1,0 +1,39 @@
+/* Navbar styling */
+
+.Navbar {
+  padding: 20px;
+  align-items: center;
+  display: inline-flex;
+  flex-wrap: wrap;
+}
+
+.Navbar__icon {
+  background-color: #e8505b;
+  padding: 15px;
+  border-radius: 50%;
+  margin-right: 40px;
+}
+
+.search__input {
+  display: flex;
+}
+
+.search__input input {
+  outline-width: 0;
+  padding: 15px;
+  border-radius: 20px 0 0 20px;
+  border: none;
+}
+
+.Search__icon {
+  padding: 15px;
+  border-style: none;
+  background-color: white;
+  border-radius: 0 20px 20px 0;
+}
+
+.search__input__button button {
+  border: none;
+  background-color: white;
+  border-radius: 0 20px 20px 0;
+}
