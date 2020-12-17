@@ -8,7 +8,9 @@ import {
   Button
 } from "react-bootstrap";
 
-const Navbar = () => {
+import "bootstrap/dist/css/bootstrap.min.css";
+
+const NavbarHeader = () => {
   return (
     <>
       <Navbar bg="light" expand="lg">
@@ -39,4 +41,4 @@ const Navbar = () => {
     </>
   );
 };
-export default Navbar;
+export default NavbarHeader;
