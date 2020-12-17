@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../pages/global/navbar/Navbar.js";
+import Navbar from "../global/navbar/Navbar.js";
 export default function Home() {
   return (
     <div>
